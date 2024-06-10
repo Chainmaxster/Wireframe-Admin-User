@@ -1,0 +1,31 @@
+# Admin and User Pages
+
+This project provides simple and customizable admin and user pages using HTML, CSS, and Bootstrap. The pages feature a blue background, clickable white letters, and additional styling to enhance the user experience.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [File Structure](#file-structure)
+- [Setup and Installation](#setup-and-installation)
+- [Customization](#customization)
+- [Usage](#usage)
+- [License](#license)
+
+## Project Overview
+
+This project includes two main HTML pages:
+
+- **Admin Page** (`admin.html`): A page designed for administrative tasks, featuring a sidebar with navigation links and a main content area with a dashboard, chart placeholder, and a list of users.
+- **User Page** (`user.html`): A page designed for end users, featuring a navbar with navigation links and a main content area with profile information and user activities.
+
+Both pages are styled with a custom CSS file (`styles.css`) and Bootstrap to ensure responsiveness and modern design.
+
+## Technologies Used
+
+- **HTML**: Structure of the web pages.
+- **CSS**: Custom styling for the web pages.
+- **Bootstrap**: Framework for responsive design and pre-built components.
+- **JavaScript (optional)**: Bootstrap dependencies for interactive components.
+
+## File Structure
